@@ -173,7 +173,7 @@ body {
     width: 100%;
     height: 100vh;
     height: 100svh; /* soporta barras de navegador móviles */
-    background-image: url('https://i.ibb.co/h1HBT0wD/Chat-GPT-Image-29-ago-2025-12-53-38-p-m.png'), url('https://images.unsplash.com/photo-1519741497674-611481863552?w=1920&h=1080&fit=crop&crop=center');
+    background-image: url('https://i.ibb.co/7Np21k47/istockphoto-1190043570-612x612.jpg'), url('https://images.unsplash.com/photo-1519741497674-611481863552?w=1920&h=1080&fit=crop&crop=center');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
